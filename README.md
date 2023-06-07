@@ -2,6 +2,8 @@ Hello Sir,
 
 Welcome to my assignment!!
 
+check deployment at: https://product-filter.pages.dev/
+
 To start this project follow steps given below:-
 
 step 1: Open folder in VS Code.
